@@ -39,3 +39,6 @@ This project leverages the T5 (Text-To-Text Transfer Transformer) model from Hug
    ```bash
    git clone https://github.com/yourusername/qa-system.git
    cd qa-system
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
